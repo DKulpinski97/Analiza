@@ -1,0 +1,15 @@
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\Analiza\bin\Release\netcoreapp3.1\Analiza.exe
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\Analiza\bin\Release\netcoreapp3.1\Analiza.deps.json
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\Analiza\bin\Release\netcoreapp3.1\Analiza.runtimeconfig.json
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\Analiza\bin\Release\netcoreapp3.1\Analiza.runtimeconfig.dev.json
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\Analiza\bin\Release\netcoreapp3.1\Analiza.dll
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\Analiza\bin\Release\netcoreapp3.1\Analiza.pdb
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\Analiza\obj\Release\netcoreapp3.1\Analiza.csproj.AssemblyReference.cache
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\Analiza\obj\Release\netcoreapp3.1\Analiza.Form1.resources
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\Analiza\obj\Release\netcoreapp3.1\Analiza.csproj.GenerateResource.cache
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\Analiza\obj\Release\netcoreapp3.1\Analiza.AssemblyInfoInputs.cache
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\Analiza\obj\Release\netcoreapp3.1\Analiza.AssemblyInfo.cs
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\Analiza\obj\Release\netcoreapp3.1\Analiza.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\Analiza\obj\Release\netcoreapp3.1\Analiza.dll
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\Analiza\obj\Release\netcoreapp3.1\Analiza.pdb
+C:\Users\Dawid\OneDrive\Pulpit\Magisterka\Programy\Analiza\obj\Release\netcoreapp3.1\Analiza.genruntimeconfig.cache
